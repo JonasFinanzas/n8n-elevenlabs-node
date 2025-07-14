@@ -1,0 +1,9 @@
+{
+  "name": "n8n-elevenlabs-node",
+  "version": "1.0.0",
+  "description": "Nodo personalizado para convertir texto en voz usando ElevenLabs",
+  "scripts": {
+    "dev": "n8n dev"
+  },
+  "dependencies": {}
+}
